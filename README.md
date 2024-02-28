@@ -8,7 +8,7 @@
  
 ### Hi there 👋, I'm CHENG Shu (程术 in Chinese). I'm a researcher. Welcome to my gh page! <br>
  
-- ⚡ I have been awarded the degree of Bachelor of Computer Science from Qingdao University of Technology in July 2015, the degree of Master of Labor Economics from Yunnan University in July 2018 and the degree of PhD of Geophysics from University of Chinese Academy of Sciences in Jan 2022.
+⚡ I have been awarded the degree of Bachelor of Computer Science from Qingdao University of Technology in July 2015, the degree of Master of Labor Economics from Yunnan University in July 2018 and the degree of PhD of Geophysics from University of Chinese Academy of Sciences in Jan 2022.
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. 
 🌱 *Currently Learning*: Python and Machine learning<br>
 🤔 *Looking for help*: I'm looking for help with trying to find postdoc job.<br>
