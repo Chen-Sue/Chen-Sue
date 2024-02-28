@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Chen-Sue/Chen-Sue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m CHENG Shu (程术 in Chinese). I have been awarded the degree of Bachelor of Computer Science from Qingdao University of Technology in July 2015, the degree of Master of Labor Economics from Yunnan University in July 2018 and the degree of PhD of Geophysics from University of Chinese Academy of Sciences in Jan 2022.
 - 🌱 I’m currently looking for postdoc position.
@@ -11,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 Email: cheng.shu228@gmail.com
 - 😄 Pronouns: ...
 
--->
