@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
-### Hi there 👋, I'm CHENG Shu (程术 in Chinese). I'm a researcher. Welcome to my gh page! <br>
+### Hi there 👋, I'm CHENG Shu (程术 in Chinese). I'm a researcher. Welcome to my page! <br>
  
 ⚡ I have been awarded the degree of Bachelor of Computer Science from Qingdao University of Technology in July 2015, the degree of Master of Labor Economics from Yunnan University in July 2018 and the degree of PhD of Geophysics from University of Chinese Academy of Sciences in Jan 2022.<br>
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. <br>
